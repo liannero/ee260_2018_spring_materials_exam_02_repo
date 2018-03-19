@@ -1,0 +1,4 @@
+Refer to Figure 8-8. Design a Verilog moduel: Vr8bgcladder_s
+for an 8-bit group carry lookahead adder.
+Instantiate the 2-bit group carry lookahaed adder module: Vr2bgcladder
+and the MSI carry lookahead circuit: Vr74x182

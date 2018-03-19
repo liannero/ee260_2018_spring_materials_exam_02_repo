@@ -1,0 +1,3 @@
+Write a Verilog module: Vr8inprior3.v for 8-input priority encoder
+with 8-bit input I, 3-bit output A, and an 1-bit IDLE signal that is active high.
+Test it with the provided testbench

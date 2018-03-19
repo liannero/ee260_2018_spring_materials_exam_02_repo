@@ -1,0 +1,3 @@
+Write a seven-segment decoder: Vr7seg.v that takes 4-bit BCD as its 
+input code and output the seven segment code for display.
+Test it with the provided testbench
